@@ -23,4 +23,7 @@ Bleep bloop, please help Issue Bot 9000 solve all CSS validation errors using th
 
 [W3C CSS Validator - Validate Direct Input](http://jigsaw.w3.org/css-validator/#validate_by_input)
 
+## Does this need an update?
+ Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-css-issue-bot-9000/issues) or [pull-request](https://github.com/learn-co-curriculum/phrg-css-issue-bot-9000/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-request, and send them a link via Connect.
+
 <p data-visibility='hidden'>PHRG CSS Issue Bot 9000</p>
